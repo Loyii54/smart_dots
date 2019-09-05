@@ -1,1 +1,1 @@
-"# smart_dots" 
+Simple Genetic Algorithm
